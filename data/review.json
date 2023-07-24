@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "id_evento":11,
+        "id_usuario":14,
+        "califiacion": 5,
+        "animo":"positivo"
+    },
+    {
+        "id": 31,
+        "id_evento":11,
+        "id_usuario":41,
+        "califiacion": 2,
+        "animo":"negativo"
+    },
+    {
+        "id": 23,
+        "id_evento":13,
+        "id_usuario":3,
+        "califiacion": 4,
+        "animo":"positivo"
+    },
+    {
+        "id": 13,
+        "id_evento":12,
+        "id_usuario":14,
+        "califiacion": 3,
+        "animo":"negativo"
+    }
+]

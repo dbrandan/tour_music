@@ -1,0 +1,76 @@
+[
+    {
+        "id": 10,
+        "nombre": "Fiestas folcloricas",
+        "artista": "chaqueño palavecino",
+        "genero": "folclore",
+        "id_ubicacion": 20,
+        "hora_inicio":"2023-07-29T08:00:00",
+        "hora_fin":"2023-07-29T10:30:00",
+        "descripcion":"un evento unico para experimentar la cultura salteña",
+        "imagen":"h"
+    },
+    {
+        "id": 11,
+        "nombre": "Noche Pesada",
+        "artista": "Metalica",
+        "genero": "Rock",
+        "id_ubicacion": 21,
+        "hora_inicio":"2023-07-25T00:00:00",
+        "hora_fin":"2023-07-26T10:02:00",
+        "descripcion":"Una noche a puro Rock Pesado",
+        "imagen" : ""
+    },
+    {
+        "id": 12,
+        "nombre": "FiestA Pop",
+        "artista": "Tini",
+        "genero": "Pop",
+        "id_ubicacion": 22,
+        "hora_inicio":"2023-07-29T09:00:00",
+        "hora_fin":"2023-07-29T03:30:00",
+        "descripcion":"Preparate para bailar toda la noche",
+        "imagen" : ""
+    },
+    
+    {
+        "id": 13,
+        "nombre": "Fiesta Bresh",
+        "artista": "Maria becerra",
+        "genero": "Reggeton/trap",
+        "id_ubicacion": 23,
+        "hora_inicio":"2023-07-27T11:00:00",
+        "hora_fin":"2023-07-28T03:30:00",
+        "descripcion":" Una consumicion gratis con la entrada ",
+        "imagen":""
+    
+    }
+    
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

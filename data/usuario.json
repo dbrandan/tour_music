@@ -1,0 +1,33 @@
+[
+    {
+        "id": 23,
+        "nombre": "cristian",
+        "apwllido": "palavecino",
+        "historial_evento": [11,12,13]
+       
+    },
+    {
+        "id": 25,
+        "nombre": "Marian",
+        "apwllido": "Gimenez",
+        "historial_evento": [11,13]
+       
+    },
+    {
+        "id": 34,
+        "nombre": "Tadeo",
+        "apwllido": "Urriche",
+        "historial_evento": [10,12,13]
+       
+    },
+    
+    {
+        "id": 4,
+        "nombre": "Sofia",
+        "apwllido": "Godoy",
+        "historial_evento": [13]
+       
+    
+    }
+    
+]
