@@ -40,20 +40,9 @@ class Evento:
     def filtrar_eventos_por_horario(self, hora_fin):
         return [evento for evento in self.eventos if hora_fin <= evento.hora_inicio ]
     
-    
-
-    def to_json(self):
-        return {"id":self.id, "nombre":{self.nombre}, "artista":{self.artista}, "genero":{self.genero}, "id_ubicacion":{self.id_ubicacion}, "hora_inicio":{self.hora_inicio}, "hora_fin":{self.hora_fin}, "descripcion":{self.descripcion}, "imagen":{self.imagen}}
     @classmethod
-    def from_json(cls,json_data):
-        data= json.loads(json_data)
-        id = data["id"]
-        nombre =data["nombre"]
-        artista=data["artista"]
-        genero = data["genero"]
-        id_ubicacion= data["id_ubicacion"]
-        hora_inicio= data["hora_inicio"]
-        hora_fin= data["hora_fin"]
-        descripcion= data["descripcion"]
-        imagen=data["imagen"]
-        return cls(id, nombre, artista, genero, id_ubicacion, hora_inicio, hora_fin, descripcion, imagen) 
+    def cargar_de_json(cls, archivo):
+        with open(archivo, "r") as f:
+            data = json.load(f)
+        return [cls(**evento) for evento in data]
+
