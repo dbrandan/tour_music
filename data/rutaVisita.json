@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "latitud": -24.7761,
+        "longitud": -65.4093,
+        "direccion": "O'Higgins 575"
+    },
+    {
+        "id" : 1,
+        "nombre": "Noche tradicional",
+        "destinos": [1,3,4]
+        
+    },
+    {
+        "id" : 2,
+        "nombre": "A bailar",
+        "destinos": [2,3,5]
+        
+    },
+    {
+        "id" : 3,
+        "nombre": "Movistar Presenta",
+        "destinos": [2,4,5]
+        
+    },
+    {
+        "id" : 1,
+        "nombre": "Personal Fest",
+        "destinos": [2,3,4]
+        
+    }
+]

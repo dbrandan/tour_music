@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "latitud": -24.789693,
+        "longitud": -65.409855,
+        "direccion": "casero y zuviria"
+    },
+    {
+        "id" : 2,
+        "latitud": -24.786177,
+        "longitud": -65.411676,
+        "direccion": "Gral Martin Guemes"
+    },
+    {
+        "id" : 3,
+        "latitud": -24.787597,
+        "longitud": -65.411052,
+        "direccion": "Av. Belgrano"
+    },
+    {
+        "id" : 4,
+        "latitud": -24.787925,
+        "longitud": -65.412131,
+        "direccion": "Balcarce"
+    },
+    {
+        "id" : 5,
+        "latitud": -24.791100,
+        "longitud": -65.410728,
+        "direccion": "Alvarado"
+    }
+]
