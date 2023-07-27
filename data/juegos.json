@@ -1,32 +1,32 @@
 [
     {
-        "titulo": "The Witcher 3: Wild Hunt",
-        "genero": "RPG",
-        "plataforma": "PC, PS4, Xbox One",
-        "anio": 2015
+        "evento": "Movistar arena0 ",
+        "artista": "manskin",
+        "genero": "pop",
+        "ubicacion": [2.00,4.01]
     },
     {
-        "titulo": "Red Dead Redemption 2",
-        "genero": "Action-Adventure",
-        "plataforma": "PC, PS4, Xbox One",
-        "anio": 2018
+        "evento": "Movistar arena1 ",
+        "artista": "luis miguel",
+        "genero": "romantico",
+        "ubicacion": 1
     },
     {
-        "titulo": "The Legend of Zelda: Breath of the Wild",
-        "genero": "Action-Adventure",
-        "plataforma": "Nintendo Switch",
-        "anio": 2017
+        "evento": "Movistar arena2 ",
+        "artista": "mans",
+        "genero": "romantico",
+        "ubicacion": 2
     },
     {
-        "titulo": "The Last of Us",
-        "genero": "Action-Adventure",
-        "plataforma": "PS3, PS4",
-        "anio": 2013
+        "evento": "Movistar arena3 ",
+        "artista": "ghost tickets",
+        "genero": "rock",
+        "ubicacion": 3
     },
     {
-        "titulo": "God of War",
-        "genero": "Action-Adventure",
-        "plataforma": "PS4",
-        "anio": 2018
+        "evento": "Movistar arena ",
+        "artista": "manskin",
+        "genero": "romantico",
+        "ubicacion":1
     }
 ]
