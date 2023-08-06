@@ -8,6 +8,7 @@ from controllers.controlador_juegos import ControladorJuegos
 from controllers.controlador_info import ControladorInfo
 
 
+
 class Aplicacion(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
